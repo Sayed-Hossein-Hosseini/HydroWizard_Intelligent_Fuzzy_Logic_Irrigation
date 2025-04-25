@@ -83,6 +83,8 @@ pip install scikit-fuzzy matplotlib numpy
 ## 📁 Project Structure
 HydroWizard/<br>
 ├── HydroWizard_Intelligent_Fuzzy_Logic_Irrigation.ipynb<br>
+├── Documentation<br>
+├── LICENCE<br>
 └── README.md
  
 ---
